@@ -17,9 +17,9 @@ To have a helpful book app to find your next read for your book club.
 ##### What is on fire/what are you having trouble with?
 
 ### Screen Shots of Current State Of App  
-![](http://imgur.com/3ubArGW)
+![](http://i.imgur.com/3ubArGW.png)
 
-![](http://imgur.com/J9pNiIi)
+![](http://i.imgur.com/J9pNiIi.png)
 
 ## Installation and Setup Instructions
 
