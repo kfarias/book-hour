@@ -17,9 +17,9 @@ To have a helpful book app to find your next read for your book club.
 ##### What is on fire/what are you having trouble with?
 
 ### Screen Shots of Current State Of App  
-[Home page](http://imgur.com/3ubArGW)
+![](http://imgur.com/3ubArGW)
 
-[NonFiction](http://imgur.com/J9pNiIi)
+![](http://imgur.com/J9pNiIi)
 
 ## Installation and Setup Instructions
 
@@ -55,4 +55,4 @@ This was a two week long project built during my third module at Turing School o
 
 I originally set out to build an MVP that allowed people to look over the books of specific genres and save favorites. I did not meet this goal. The favorites functionality was not met. One of the things I wish I would have focused on was fetching just one API and building that out all the way through instead of tackling all of the different genres. i will still add favorites and work on adding users and geolocation as a personal goal.
 
-This project was challenging because I didn't have a good handle on `Redux` when I started, but it was a learning goal I had. 
+This project was challenging because I didn't have a good handle on `Redux` when I started, but it was a learning goal I had.
