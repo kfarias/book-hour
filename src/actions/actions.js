@@ -4,3 +4,10 @@ export const addBooks = (book) => {
     book
   }
 };
+
+export const saveFavorites = (favorite) => {
+  return {
+    type: 'ADD_FAVORITES',
+    favorite
+  }
+};

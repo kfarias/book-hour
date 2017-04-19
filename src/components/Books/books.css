@@ -1,0 +1,48 @@
+.book-card {
+  border         : solid black;
+  color          : #FAFAFF;
+  display        : flex;
+  flex-direction : column;
+  height         : 350px;
+  margin         : 20px;
+  text-align     : center;
+}
+
+.book-cover {
+  margin-top    : 20px;
+  margin-bottom : 10px;
+  margin-right  : auto;
+  margin-left   : auto;
+}
+
+.book-title {
+  margin-top : 5px;
+}
+
+.favorites-btn {
+  background-color : transparent;
+  color            : #FAFAFF;
+  font-size        : 30px;
+  height           : 40px;
+  margin-bottom    : 10px;
+  margin-top       : inherit;
+  margin-right     : 10px;
+  margin-left      : auto;
+  width            : 40px;
+}
+
+.favorites-btn:active {
+  color : red;
+}
+
+.amazon-link {
+  background: -webkit-linear-gradient(left, #E4D9FF , transparent);
+  color           : black;
+  margin-top      : 20px;
+  margin-bottom   : 12px;
+  padding-top     : 10px;
+  padding-bottom  : 10px;
+  text-align      : center;
+  text-decoration : none;
+  text-decoration : underline;
+}

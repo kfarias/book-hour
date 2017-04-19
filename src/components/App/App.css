@@ -1,15 +1,37 @@
 body {
-  background-color: #30343F;
-}
-
-.header-area {
-  background-image: url('/../public/images/background-img.png');
+  background-color : #30343F;
 }
 
 .app-title {
-  text-align: center;
-  color: #FAFAFF;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: bold;
-  font-size: 38px;
+  padding-top      : 20px;
+  padding-bottom   : 20px;
+  color            : #30343F;
+  background-color : #E4D9FF;
+  text-align       : center;
+  font-size        : 38px;
+  font-weight      : bold;
+}
+
+.button-wrapper {
+  height           : 500px;
+  padding-top      : 20px;
+  background-image : url('../../../public/images/btn-background.png');
+}
+
+.book-card {
+  background-image : url('../../../public/images/background-img.png');
+}
+
+.link {
+  color : transparent;
+}
+
+footer {
+  height           : 43px;
+  background-color : #E4D9FF;
+}
+
+.nyt-logo {
+  margin-top  : 8px;
+  margin-left : 90%;
 }
