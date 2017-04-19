@@ -33,5 +33,9 @@ footer {
 
 .nyt-logo {
   margin-top  : 8px;
-  margin-left : 90%;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
 }

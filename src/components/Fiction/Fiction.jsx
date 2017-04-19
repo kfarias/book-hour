@@ -9,7 +9,6 @@ export default class Fiction extends Component {
     return(
       <div>
         {books.map((book, i) => {
-          console.log(book);
             return <Books
               amazon={book.amazon_product_url}
               title={book.book_details[0].title}

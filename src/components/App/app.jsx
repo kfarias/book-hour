@@ -44,12 +44,17 @@ class App extends Component {
                   exact path='/favorites'
                   render={() => <FavoritesContainer/>}/>
                 </div>
-                  <footer>
+                  <footer className='footer-container'>
                     <a href='http://developer.nytimes.com'
                        target='blank'><img
                        className='nyt-logo'
                        src={'../../images/nyt-logo.png'}/>
                     </a>
+                    <Link className='link' to='/favorites'>
+                    <Button name='&#9829;'
+                      className='favorites-btn'
+                      onClick={() => console.log('hi')}/>
+                    </Link>
                   </footer>
               </div>
             );
